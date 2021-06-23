@@ -32,4 +32,9 @@ To receive access to the RPi via AnyDesk:
  4. Press Run button in *CloudHub[OFFICIAL]* to run a retreiving of measurement
  5. Press Run button in *displayUI* to run the UI of the cloud-hub
 
+## Contact
+
+For any questions related to this project. Please contact samuelbenhaiem@gmail.com 
+
+
 ```
