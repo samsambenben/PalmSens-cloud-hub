@@ -22,7 +22,7 @@ To receive access to the RPi via AnyDesk:
 
  - Access code: 
 
-> palmsens
+> ask Sam 
 
 ## Setup
 
